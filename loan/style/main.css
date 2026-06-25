@@ -109,7 +109,7 @@ p.sec {
 
 .video-row {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 12px;
     flex-wrap: wrap;
     margin-top: 15px;
